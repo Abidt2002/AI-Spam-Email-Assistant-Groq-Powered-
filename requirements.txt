@@ -1,0 +1,33 @@
+# ==========================
+# AI Spam Email Assistant
+# Dependencies File
+# ==========================
+
+# Core Python Libraries
+numpy
+pandas
+scikit-learn
+joblib
+
+# Web Interface
+streamlit
+
+# AI Assistant (Groq API)
+groq
+
+# Deployment / Tunnel
+pyngrok
+localtunnel
+
+# Optional Utilities
+tqdm
+matplotlib
+seaborn
+
+# For Colab compatibility
+ipython
+
+⚙️ Usage:
+When someone clones your repo, they can set up the environment simply by running:
+
+pip install -r requirements.txt
